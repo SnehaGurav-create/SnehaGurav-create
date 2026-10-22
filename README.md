@@ -313,21 +313,7 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
 
 Artificial Intelligence · Machine Learning · Healthcare Technology · Full-Stack Development · Cloud Computing · Social Impact
 
-🏅 **Hackathon Log:** Add each event's name, year, problem statement, project, team role, and result. Include a certificate or demo link whenever available.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGurav-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGurav-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SnehaGurav-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 <img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
