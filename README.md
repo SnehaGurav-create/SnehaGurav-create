@@ -1,21 +1,141 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>Hey there! I'm **Sneha Gurav** 👋 — a Computer Science Engineering student, aspiring Software Engineer, and technology enthusiast passionate about turning ideas into impactful digital solutions.<br><br>- 💻 **Software Development:** Building scalable, efficient, and user-focused applications.<br>- 🧠 **AI & Machine Learning:** Exploring intelligent systems, predictive modeling, and explainable AI.<br>- 🌐 **Full-Stack Development:** Developing interactive web applications using React, JavaScript, Node.js, Express.js, and MySQL.<br>- ⚙️ **Problem Solving:** Strengthening my Data Structures & Algorithms skills through consistent coding practice.<br>- ☁️ **Cloud & DevOps:** Learning AWS, cloud infrastructure, Git, and GitHub workflows.<br>- 🚀 **Project-Driven Learning:** Transforming concepts into practical projects, experimenting with emerging technologies, and continuously improving my engineering skills.<br><br>### 🛠️ My Engineering Mindset<br>**Learn → Build → Test → Improve → Repeat**<br><br>I believe great software is built through curiosity, clean code, continuous learning, and solving real-world problems.<br><br>🎯 **Current Focus:** Full-stack engineering, AI-powered applications, and cloud-based solutions.<br><br>🤝 Always open to collaborating on innovative projects, exploring open-source opportunities, and connecting with fellow developers.<br><br>**Let's build something meaningful!** ✨
+<!-- PROFILE HEADER -->
 
+<h1 align="center">Hi 👋, I'm Sneha Gurav</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-gurav-6a8ab52b0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sneha_Gurav_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehagurav1802@gmail.com) 
+<h3 align="center">💻 Computer Science Engineering Student | Aspiring Software Engineer | AI/ML Enthusiast</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SnehaGurav-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SnehaGurav-create&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SnehaGurav-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software;Exploring+AI%2FML+%26+Full-Stack+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing introduction" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SnehaGurav-create&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://github.com/SnehaGurav-create">
+    <img src="https://img.shields.io/badge/GitHub-SnehaGurav--create-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0A66C2?style=for-the-badge" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML-8A2BE2?style=for-the-badge" alt="AI and ML" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SnehaGurav-create&icon=3&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+I'm a Computer Science Engineering student at **MIT Academy of Engineering, Alandi**, passionate about software engineering, artificial intelligence, and building practical technology solutions.
+
+I enjoy exploring new technologies, solving programming challenges, and turning ideas into functional applications.
+
+- 🔭 **Building:** Full-stack applications and AI-powered solutions.
+- 🧠 **Exploring:** Machine Learning, Explainable AI, and Computer Vision.
+- 🌐 **Developing:** Interactive web applications and REST APIs.
+- ☁️ **Learning:** AWS, cloud infrastructure, and deployment.
+- ⚙️ **Practicing:** Data Structures, Algorithms, and clean coding.
+- 🤝 **Interested in:** Hackathons, open-source projects, and collaborative development.
+
+> 💡 My philosophy: Learn continuously, build practically, and improve consistently.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python and JavaScript" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite" alt="Web development technologies" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,aws" alt="Databases and developer tools" />
+</p>
+
+### AI / ML & Development Areas
+
+`Machine Learning` · `Computer Vision` · `Explainable AI` · `REST APIs` · `Cloud Computing`
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 Blood Donation Network System
+
+A full-stack application concept for connecting blood donors with people seeking blood donations.
+
+**Tech Stack:** React · Vite · Node.js · Express.js · MySQL · JWT
+
+**Focus Areas:** Authentication, donor management, REST APIs, and database integration.
+
+### 🩺 GlycoSense — Explainable AI for Diabetes
+
+An AI/ML project focused on diabetes severity classification, personalized dietary guidance, and explainable predictions.
+
+**Tech Stack:** Python · XGBoost · SHAP · Machine Learning
+
+**Focus Areas:** Classification, model evaluation, interpretability, and personalized recommendations.
+
+### 🤟 Smart Sign Language Learning & Translation
+
+A computer-vision project concept for recognizing sign language gestures and supporting real-time translation.
+
+**Tech Stack:** Python · OpenCV · MediaPipe · Deep Learning
+
+**Focus Areas:** Gesture recognition, landmark extraction, and real-time prediction.
+
+### ☁️ AWS Networking & Infrastructure
+
+Hands-on cloud learning through AWS CLI and infrastructure configuration.
+
+**Tech Stack:** AWS · EC2 · VPC · IAM · EBS · AWS CLI
+
+**Focus Areas:** Virtual networking, security groups, compute instances, and cloud resource management.
+
+> 📌 Replace these project descriptions with links to your actual repositories as they become available. Clearly label projects that are still in development.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGurav-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGurav-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SnehaGurav-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🎯 Current Mission
+
+- Strengthen my problem-solving and software development skills.
+- Build and document meaningful projects.
+- Explore practical AI/ML applications.
+- Improve my cloud deployment and engineering workflow.
+- Contribute to collaborative and open-source development.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/SnehaGurav-create">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Let's learn, collaborate, and build something meaningful.
+</p>
