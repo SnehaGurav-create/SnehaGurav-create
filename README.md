@@ -26,8 +26,6 @@
 
 ## 👩‍💻 About Me
 
-
-
 {
   "🧑‍💻 name": "Sneha Sadanand Gurav",
   "📍 location": "Peth, Maharashtra, India",
@@ -70,16 +68,10 @@
 }
 
 
-<table>
-<tr>
-
-<td width="40%" align="center" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=F7B731&center=true&vCenter=true&width=300&height=80&lines=Learn+continuously.;Build+purposefully.;Solve+real-world+problems." alt="Philosophy" />
 
-</td>
-</tr>
-</table>
+
 
 ---
 
