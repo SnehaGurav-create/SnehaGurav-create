@@ -67,8 +67,7 @@
   "💬 philosophy": "Learn continuously. Build purposefully. Solve real-world problems through technology."
 }
 
-
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🛠️ Technical Arsenal
 
@@ -95,7 +94,7 @@
   <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🚀 Featured Projects
 
@@ -233,7 +232,7 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 </p>
 
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🐍 Contribution Snake
 
@@ -245,7 +244,7 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
   </picture>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 📊 GitHub Analytics
 
@@ -292,7 +291,7 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Every+commit+is+progress.;Consistency+builds+great+software.;Keep+Learning.+Keep+Building." alt="Coding motivation" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🏆 Achievements & Certifications
 
@@ -307,7 +306,7 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 🚀 **Technical Growth** — Learning emerging technologies and applying them to practical engineering challenges.
 📌 Add your verified certifications, competition rankings, awards, and other measurable achievements here as you earn them.
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 💡 Hackathons & Technical Activities
 
@@ -319,7 +318,7 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
 🌐 **Software Development** — Building full-stack applications and learning modern development workflows.
 🤝 **Collaboration** — Interested in team-based problem solving, technical events, and open-source contributions.
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🎯 Current Mission
 
@@ -327,7 +326,7 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=00A896&center=true&vCenter=true&width=700&height=40&lines=Strengthen+problem-solving+and+software+skills;Build+and+document+meaningful+projects;Explore+practical+AI%2FML+applications;Improve+cloud+deployment+workflow;Contribute+to+open+source" alt="Mission" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 🤝 Let's Connect
 
