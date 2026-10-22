@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 {
   "🧑‍💻 name": "Sneha Sadanand Gurav",
