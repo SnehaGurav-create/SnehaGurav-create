@@ -20,18 +20,48 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student at **MIT Academy of Engineering, Alandi**, passionate about software engineering, artificial intelligence, and building practical technology solutions.
+```json
+{
+  "🧑‍💻 name": "Sneha Sadanand Gurav",
+  "📍 location": "Peth, Maharashtra, India",
 
-I enjoy exploring new technologies, solving programming challenges, and turning ideas into functional applications.
+  "🎓 education": {
+    "current": "B.Tech CSE — MIT Academy of Engineering, Alandi, Pune",
+    "focus": "Software Engineering | Artificial Intelligence | Machine Learning"
+  },
 
-- 🔭 **Building:** Full-stack applications and AI-powered solutions.
-- 🧠 **Exploring:** Machine Learning, Explainable AI, and Computer Vision.
-- 🌐 **Developing:** Interactive web applications and REST APIs.
-- ☁️ **Learning:** AWS, cloud infrastructure, and deployment.
-- ⚙️ **Practicing:** Data Structures, Algorithms, and clean coding.
-- 🤝 **Interested in:** Hackathons, open-source projects, and collaborative development.
+  "⚡ technical_focus": [
+    "💻 Software Developer → Building practical software solutions",
+    "🌐 Full-Stack Developer → React, JavaScript, Node.js, Express.js",
+    "🤖 AI/ML Enthusiast → Machine Learning, XGBoost, Explainable AI",
+    "☁️ Cloud Computing Learner → AWS, EC2, VPC, IAM, AWS CLI",
+    "🧩 Problem Solver → Data Structures, Algorithms, Java, C++"
+  ],
 
-> 💡 My philosophy: Learn continuously, build practically, and improve consistently.
+  "🚀 featured_projects": [
+    "🩺 GlycoSense → Explainable AI for diabetes severity classification",
+    "🩸 Blood Donation Network System → Full-stack web application",
+    "🤟 Smart Sign Language Translation → Computer Vision and gesture recognition",
+    "☁️ AWS Networking → Cloud infrastructure using AWS CLI"
+  ],
+
+  "🏅 professional_development": [
+    "🎓 Cisco Virtual Internship Program 2026",
+    "💡 Hands-on project development and technical learning",
+    "🤝 Interested in hackathons, collaboration, and open-source development"
+  ],
+
+  "🛠️ technology_stack": {
+    "languages": ["C", "C++", "Java", "Python", "JavaScript"],
+    "web": ["HTML", "CSS", "React", "Node.js", "Express.js"],
+    "databases": ["MySQL", "SQLite"],
+    "tools": ["Git", "GitHub", "VS Code", "AWS"],
+    "ai_ml": ["Machine Learning", "Computer Vision", "XGBoost", "SHAP"]
+  },
+
+  "💬 philosophy": "Learn continuously. Build purposefully. Solve real-world problems through technology."
+}
+```
 
 ---
 
