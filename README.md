@@ -158,6 +158,41 @@ Hands-on cloud learning through AWS CLI and infrastructure configuration.
 > 📌 Replace these project descriptions with links to your actual repositories as they become available. Clearly label projects that are still in development.
 
 ---
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Virtual%20Internship%20Program%202026-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Virtual Internship Program 2026" />
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8A2BE2?style=for-the-badge" alt="Continuous Learning" />
+</p>
+
+- 🎓 **Cisco Virtual Internship Program 2026** — Developing technical knowledge through internship learning and practical activities.
+- 💻 **Project Development** — Exploring software engineering, full-stack development, AI/ML, and cloud computing through hands-on projects.
+- 🧠 **Problem Solving** — Continuously strengthening programming fundamentals, Data Structures, and Algorithms.
+- 🚀 **Technical Growth** — Learning emerging technologies and applying them to practical engineering challenges.
+
+> 📌 Add your verified certifications, competition rankings, awards, and other measurable achievements here as you earn them.
+
+---
+
+## 💡 Hackathons & Technical Activities
+
+I enjoy exploring innovative ideas, collaborating with developers, and building technology-driven solutions to real-world problems.
+
+- 🚀 **Hackathon Participation** — Working toward developing practical solutions for real-world challenges.
+- 🩺 **Healthcare Innovation** — Exploring AI/ML applications through GlycoSense.
+- 🤟 **Assistive Technology** — Exploring computer vision for sign language recognition and translation.
+- 🌐 **Software Development** — Building full-stack applications and learning modern development workflows.
+- 🤝 **Collaboration** — Interested in team-based problem solving, technical events, and open-source contributions.
+
+### 🎯 Areas I'm Interested In
+
+`Artificial Intelligence` · `Machine Learning` · `Healthcare Technology` · `Full-Stack Development` · `Cloud Computing` · `Social Impact`
+
+> 🏅 **Hackathon Log:** Add each event's name, year, problem statement, project, team role, and result. Include a certificate or demo link whenever available.
+
+
 
 ## 📊 GitHub Analytics
 
