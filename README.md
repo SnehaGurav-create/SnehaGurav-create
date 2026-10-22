@@ -1,23 +1,5 @@
 <!-- PROFILE HEADER -->
 
-<p align="center">
-  <img
-    src="./github_background.gif"
-    alt="Sneha Gurav - Developer Header"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sneha Gurav</h1>
-
-<h3 align="center">
-  Computer Science Engineer | Software Developer | AI/ML Enthusiast
-</h3>
-
-<p align="center">
-  Building ideas into software • Exploring AI • Solving problems
-</p>
-
 <h1 align="center">Hi 👋, I'm Sneha Gurav</h1>
 
 <h3 align="center">💻 Computer Science Engineering Student | Aspiring Software Engineer | AI/ML Enthusiast</h3>
