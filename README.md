@@ -67,7 +67,7 @@
 ## 🛠️ Technical Arsenal
 
 ### Programming Languages
-<p align="center">
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python and JavaScript" />
 </p>
@@ -87,7 +87,7 @@
 ### AI / ML & Development Areas
 
 `Machine Learning` · `Computer Vision` · `Explainable AI` · `REST APIs` · `Cloud Computing`
-</p>
+
 ---
 name: Generate Snake Animation
 
@@ -294,21 +294,51 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
 
 
 
-## 📊 GitHub Analytics
+
+---
+
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGurav-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <i>Tracking my coding journey, consistency, and development activity.</i>
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 💻 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SnehaGurav-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Statistics" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGurav-create&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=SnehaGurav-create&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaGurav-create&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGurav-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SnehaGurav-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Every+commit+is+progress.;Consistency+builds+great+software.;Keep+Learning.+Keep+Building." alt="Coding motivation" />
 </p>
 
 ---
+
 
 ## 🎯 Current Mission
 
