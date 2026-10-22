@@ -1,75 +1,24 @@
-# Hi there, I'm Sneha Gurav 👋
+# 💫 About Me:
+<br><br>Hey there! I'm **Sneha Gurav** 👋 — a Computer Science Engineering student, aspiring Software Engineer, and technology enthusiast passionate about turning ideas into impactful digital solutions.<br><br>- 💻 **Software Development:** Building scalable, efficient, and user-focused applications.<br>- 🧠 **AI & Machine Learning:** Exploring intelligent systems, predictive modeling, and explainable AI.<br>- 🌐 **Full-Stack Development:** Developing interactive web applications using React, JavaScript, Node.js, Express.js, and MySQL.<br>- ⚙️ **Problem Solving:** Strengthening my Data Structures & Algorithms skills through consistent coding practice.<br>- ☁️ **Cloud & DevOps:** Learning AWS, cloud infrastructure, Git, and GitHub workflows.<br>- 🚀 **Project-Driven Learning:** Transforming concepts into practical projects, experimenting with emerging technologies, and continuously improving my engineering skills.<br><br>### 🛠️ My Engineering Mindset<br>**Learn → Build → Test → Improve → Repeat**<br><br>I believe great software is built through curiosity, clean code, continuous learning, and solving real-world problems.<br><br>🎯 **Current Focus:** Full-stack engineering, AI-powered applications, and cloud-based solutions.<br><br>🤝 Always open to collaborating on innovative projects, exploring open-source opportunities, and connecting with fellow developers.<br><br>**Let's build something meaningful!** ✨
 
-### Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
 
-💻 Passionate about building practical software solutions and learning new technologies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-gurav-6a8ab52b0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sneha_Gurav_18) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sneha Gurav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehagurav1802@gmail.com) 
 
-🎓 Pursuing B.Tech in Computer Science Engineering at MIT Academy of Engineering, Alandi.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SnehaGurav-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SnehaGurav-create&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SnehaGurav-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌱 Currently exploring full-stack development, Artificial Intelligence, Machine Learning, and Cloud Computing.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SnehaGurav-create&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-🎯 My goal is to build impactful projects, strengthen my problem-solving skills, and contribute to collaborative software development.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- C, C++, Java, Python, JavaScript
-
-**Web Development**
-- HTML, CSS, React, Node.js, Express.js
-
-**Databases**
-- MySQL, SQLite
-
-**Tools & Platforms**
-- Git, GitHub, VS Code, AWS
-
-**AI/ML**
-- Machine Learning, Computer Vision, Explainable AI
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SnehaGurav-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🩸 Blood Donation Network System
-A full-stack application designed to connect blood donors with people who need blood.
-
-**Tech Stack:** React, Vite, Node.js, Express.js, MySQL, JWT
-
-### 🩺 GlycoSense
-An explainable AI-based project concept for diabetes severity classification and personalized dietary guidance.
-
-**Tech Stack:** Python, Machine Learning, XGBoost, SHAP
-
-### 🤟 Smart Sign Language Learning & Translation
-A computer-vision-based project concept for recognizing and translating sign language gestures.
-
-**Tech Stack:** Python, OpenCV, MediaPipe, Deep Learning
-
----
-
-## 📚 Currently Learning
-- Data Structures and Algorithms
-- Full-Stack Web Development
-- Machine Learning and Model Deployment
-- AWS and Cloud Computing
-
----
-
-## 🏆 Certifications & Learning
-- Cisco Virtual Internship Program 2026
-- Add other verified certifications and achievements here.
-
----
-
-## 🤝 Connect With Me
-
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Portfolio:** Add your portfolio URL
-- **Email:** Add your professional email address
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
