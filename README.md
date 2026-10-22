@@ -121,12 +121,6 @@ jobs:
 
 ---
 
-<p align="center">
-  <img src="./divider.gif" width="100%" alt="Animated section divider" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🩸 Blood Donation Network System
