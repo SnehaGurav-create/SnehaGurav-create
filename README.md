@@ -23,6 +23,7 @@
 
 ## 👩‍💻 About Me
 
+```json
 {
   "🧑‍💻 name": "Sneha Sadanand Gurav",
   "📍 location": "Peth, Maharashtra, India",
@@ -63,6 +64,8 @@
 
   "💬 philosophy": "Learn continuously. Build purposefully. Solve real-world problems through technology."
 }
+```
+
 
 <img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
