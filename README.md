@@ -289,6 +289,9 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
   <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8A2BE2?style=for-the-badge" alt="Continuous Learning" />
 </p>
 
+
+## 💡 Achievements and Certification
+
 🎓 **Cisco Virtual Internship Program 2026** — Developing technical knowledge through internship learning and practical activities.
 💻 **Project Development** — Exploring software engineering, full-stack development, AI/ML, and cloud computing through hands-on projects.
 🧠 **Problem Solving** — Continuously strengthening programming fundamentals, Data Structures, and Algorithms.
