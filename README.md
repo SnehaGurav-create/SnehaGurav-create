@@ -121,43 +121,147 @@ jobs:
 
 ---
 
+---
+
 ## 🚀 Featured Projects
+
+<p align="center">
+  <i>Building intelligent solutions through software engineering, AI/ML, healthcare innovation, and cloud technologies.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🩸 Blood Donation Network System
 
-A full-stack application concept for connecting blood donors with people seeking blood donations.
+A full-stack platform designed to connect blood donors with people in need, helping simplify donor discovery and blood donation coordination.
 
-**Tech Stack:** React · Vite · Node.js · Express.js · MySQL · JWT
+**⚙️ Tech Stack**
 
-**Focus Areas:** Authentication, donor management, REST APIs, and database integration.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🩺 GlycoSense — Explainable AI for Diabetes
+**✨ Key Areas**
+- Donor management and search
+- Authentication and secure APIs
+- Database integration
 
-An AI/ML project focused on diabetes severity classification, personalized dietary guidance, and explainable predictions.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Python · XGBoost · SHAP · Machine Learning
+### 🩺 GlycoSense
 
-**Focus Areas:** Classification, model evaluation, interpretability, and personalized recommendations.
+**Explainable AI for Diabetes**
 
-### 🤟 Smart Sign Language Learning & Translation
+An AI-powered project focused on diabetes severity classification, personalized dietary guidance, and interpretable model predictions.
 
-A computer-vision project concept for recognizing sign language gestures and supporting real-time translation.
+**⚙️ Tech Stack**
 
-**Tech Stack:** Python · OpenCV · MediaPipe · Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![ML](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
+![SHAP](https://img.shields.io/badge/Explainable_AI-00A896?style=flat-square)
 
-**Focus Areas:** Gesture recognition, landmark extraction, and real-time prediction.
+**✨ Key Areas**
+- Severity-aware classification
+- SHAP-based explainability
+- Personalized dietary recommendations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ❤️ CardioScope
+
+**AI-Powered Cardiovascular Health Insights**
+
+A healthcare-focused project concept aimed at analyzing relevant health data to support cardiovascular risk assessment and provide understandable health insights.
+
+**⚙️ Suggested Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**✨ Key Areas**
+- Health data analysis
+- Risk classification using validated models
+- Explainable predictions and educational insights
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 AgroVision
+
+**AI-Driven Smart Agriculture**
+
+An agriculture-focused project concept exploring AI-powered crop insights to support informed agricultural decisions and sustainable farming practices.
+
+**⚙️ Suggested Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**✨ Key Areas**
+- Crop and plant health analysis
+- Image-based disease detection
+- Data-driven agricultural insights
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤟 Smart Sign Language Translation
+
+A computer-vision project exploring real-time sign language gesture recognition and translation to support accessible communication.
+
+**⚙️ Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+
+**✨ Key Areas**
+- Hand landmark detection
+- Gesture recognition
+- Real-time translation pipeline
+
+</td>
+<td width="50%" valign="top">
 
 ### ☁️ AWS Networking & Infrastructure
 
-Hands-on cloud learning through AWS CLI and infrastructure configuration.
+Hands-on cloud infrastructure learning using AWS CLI, covering virtual networking and compute resource configuration.
 
-**Tech Stack:** AWS · EC2 · VPC · IAM · EBS · AWS CLI
+**⚙️ Tech Stack**
 
-**Focus Areas:** Virtual networking, security groups, compute instances, and cloud resource management.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-527FFF?style=flat-square)
 
-> 📌 Replace these project descriptions with links to your actual repositories as they become available. Clearly label projects that are still in development.
+**✨ Key Areas**
+- VPC and subnet configuration
+- Security groups and EC2
+- AWS CLI automation
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>💡 Explore • Experiment • Engineer • Evolve</b>
+</p>
 
 ---
+
+> **📌 Project note:** Add links to your actual repositories, demos, and screenshots as they become available. CardioScope and AgroVision use suggested technologies and feature descriptions; adjust them to match your actual implementations. Healthcare-related outputs should be presented as informational prototypes, not medical diagnoses.
+
 ---
 
 ## 🏆 Achievements & Certifications
