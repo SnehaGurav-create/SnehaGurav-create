@@ -67,7 +67,7 @@
 ## 🛠️ Technical Arsenal
 
 ### Programming Languages
-
+<p align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python and JavaScript" />
 </p>
@@ -87,7 +87,7 @@
 ### AI / ML & Development Areas
 
 `Machine Learning` · `Computer Vision` · `Explainable AI` · `REST APIs` · `Cloud Computing`
-
+</p>
 ---
 name: Generate Snake Animation
 
@@ -257,10 +257,6 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 <p align="center">
   <b>💡 Explore • Experiment • Engineer • Evolve</b>
 </p>
-
----
-
-> **📌 Project note:** Add links to your actual repositories, demos, and screenshots as they become available. CardioScope and AgroVision use suggested technologies and feature descriptions; adjust them to match your actual implementations. Healthcare-related outputs should be presented as informational prototypes, not medical diagnoses.
 
 ---
 
