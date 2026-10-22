@@ -284,8 +284,6 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 
 <img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
-## 🏆 Achievements & Certifications
-
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Virtual%20Internship%20Program%202026-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Virtual Internship Program 2026" />
   <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8A2BE2?style=for-the-badge" alt="Continuous Learning" />
@@ -297,7 +295,7 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 🚀 **Technical Growth** — Learning emerging technologies and applying them to practical engineering challenges.
 📌 Add your verified certifications, competition rankings, awards, and other measurable achievements here as you earn them.
 
-<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
+---
 
 ## 💡 Hackathons & Technical Activities
 
@@ -308,6 +306,25 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
 🤟 **Assistive Technology** — Exploring computer vision for sign language recognition and translation.
 🌐 **Software Development** — Building full-stack applications and learning modern development workflows.
 🤝 **Collaboration** — Interested in team-based problem solving, technical events, and open-source contributions.
+### 🎯 Areas I'm Interested In
+
+Artificial Intelligence · Machine Learning · Healthcare Technology · Full-Stack Development · Cloud Computing · Social Impact
+
+🏅 **Hackathon Log:** Add each event's name, year, problem statement, project, team role, and result. Include a certificate or demo link whenever available.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGurav-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGurav-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SnehaGurav-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
