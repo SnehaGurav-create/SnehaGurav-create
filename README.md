@@ -18,34 +18,33 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0A66C2?style=for-the-badge" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML-8A2BE2?style=for-the-badge" alt="AI and ML" />
 </p>
-
----
+<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
 ## 👩‍💻 About Me
 
 ```json
 {
   "🧑‍💻 name": "Sneha Sadanand Gurav",
-  "📍 location": "Peth, Maharashtra, India",
+  "📍 location": "Pune, Maharashtra, India",
 
   "🎓 education": {
-    "current": "B.Tech CSE — MIT Academy of Engineering, Alandi, Pune",
-    "focus": "Software Engineering | Artificial Intelligence | Machine Learning"
+    "current": "B.Tech CSE — MIT Academy of Engineering, Alandi, Pune (CGPA: 8.43)",
+    "Previous": "Diploma in Computer Engineering - Dr. Bapuji Salunkhe Institute of technology, Kolhapur (94 %)".
+
   },
 
-  "⚡ technical_focus": [
-    "💻 Software Developer → Building practical software solutions",
-    "🌐 Full-Stack Developer → React, JavaScript, Node.js, Express.js",
-    "🤖 AI/ML Enthusiast → Machine Learning, XGBoost, Explainable AI",
-    "☁️ Cloud Computing Learner → AWS, EC2, VPC, IAM, AWS CLI",
-    "🧩 Problem Solver → Data Structures, Algorithms, Java, C++"
-  ],
+   "🏆 career_stats": {
+    "hackathons_competed": "4+",
+    "national_state_awards": "12+",
+    "research_papers": 3,
+    "rest_apis_built": "7+",
+    "users_impacted": "10,000+"
+  }
 
-  "🚀 featured_projects": [
-    "🩺 GlycoSense → Explainable AI for diabetes severity classification",
-    "🩸 Blood Donation Network System → Full-stack web application",
-    "🤟 Smart Sign Language Translation → Computer Vision and gesture recognition",
-    "☁️ AWS Networking → Cloud infrastructure using AWS CLI"
+  "🚀 Experience": [
+    "Intern: Android Developer Intern at iGAP Technologies",
+    "Campus Ambassador: Girl Script Summer of Code",
+    "Current: Full Stack Developer Intern at Unified Technologies",
   ],
 
   "🏅 professional_development": [
@@ -53,14 +52,6 @@
     "💡 Hands-on project development and technical learning",
     "🤝 Interested in hackathons, collaboration, and open-source development"
   ],
-
-  "🛠️ technology_stack": {
-    "languages": ["C", "C++", "Java", "Python", "JavaScript"],
-    "web": ["HTML", "CSS", "React", "Node.js", "Express.js"],
-    "databases": ["MySQL", "SQLite"],
-    "tools": ["Git", "GitHub", "VS Code", "AWS"],
-    "ai_ml": ["Machine Learning", "Computer Vision", "XGBoost", "SHAP"]
-  },
 
   "💬 philosophy": "Learn continuously. Build purposefully. Solve real-world problems through technology."
 }
