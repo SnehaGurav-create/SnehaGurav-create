@@ -65,6 +65,15 @@
 
 ---
 
+---
+
+<p align="center">
+  <img src="./divider.gif" width="100%" alt="Animated section divider" />
+</p>
+
+---
+
+
 ## 🛠️ Technical Arsenal
 
 ### Programming Languages
@@ -118,6 +127,15 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+---
+
+<p align="center">
+  <img src="./divider.gif" width="100%" alt="Animated section divider" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
