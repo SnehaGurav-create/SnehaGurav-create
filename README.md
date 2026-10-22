@@ -3,23 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sneha%20Gurav&fontSize=62&fontAlignY=36&animation=fadeIn&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff" alt="Sneha Gurav header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sneha Sadanand Gurav</h1>
+<h1 align="center">Hi 👋, I'm Sneha Gurav</h1>
+
+<h3 align="center">💻 Computer Science Engineering Student | Aspiring Software Engineer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Building+Ideas+Into+Software+%F0%9F%9A%80;Exploring+AI%2FML+%26+Full-Stack+Development+%F0%9F%A4%96;Cloud+Learner+%E2%80%A2+Problem+Solver+%E2%80%A2+Builder+%E2%98%81%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%92%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software;Exploring+AI%2FML+%26+Full-Stack+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SnehaGurav-create"><img src="https://img.shields.io/badge/GitHub-SnehaGurav--create-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SnehaGurav-create&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20AWS-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-2EA44F?style=flat-square" />
+  <a href="https://github.com/SnehaGurav-create">
+    <img src="https://img.shields.io/badge/GitHub-SnehaGurav--create-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0A66C2?style=for-the-badge" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML-8A2BE2?style=for-the-badge" alt="AI and ML" />
 </p>
 
 ---
@@ -317,14 +314,6 @@ I enjoy exploring innovative ideas, collaborating with developers, and building 
 🤟 **Assistive Technology** — Exploring computer vision for sign language recognition and translation.
 🌐 **Software Development** — Building full-stack applications and learning modern development workflows.
 🤝 **Collaboration** — Interested in team-based problem solving, technical events, and open-source contributions.
-
-<img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
-
-## 🎯 Current Mission
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=00A896&center=true&vCenter=true&width=700&height=40&lines=Strengthen+problem-solving+and+software+skills;Build+and+document+meaningful+projects;Explore+practical+AI%2FML+applications;Improve+cloud+deployment+workflow;Contribute+to+open+source" alt="Mission" />
-</p>
 
 <img src="https://raw.githubusercontent.com/SnehaGurav-create/SnehaGurav-create/main/assets/divider.svg" width="100%" alt="divider" /></p>
 
