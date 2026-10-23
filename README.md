@@ -304,11 +304,11 @@ Hands-on cloud infrastructure learning using AWS CLI, covering virtual networkin
 
 I enjoy exploring innovative ideas, collaborating with developers, and building technology-driven solutions to real-world problems.
 
-🚀 Hackathon Participation** — Working toward developing practical solutions for real-world challenges.
-🩺 Healthcare Innovation** — Exploring AI/ML applications through GlycoSense.
-🤟 Assistive Technology** — Exploring computer vision for sign language recognition and translation.
-🌐 Software Development** — Building full-stack applications and learning modern development workflows.
-🤝 Collaboration** — Interested in team-based problem solving, technical events, and open-source contributions.
+🚀 Hackathon Participation — Working toward developing practical solutions for real-world challenges.
+🩺 Healthcare Innovation — Exploring AI/ML applications through GlycoSense.
+🤟 Assistive Technology — Exploring computer vision for sign language recognition and translation.
+🌐 Software Development — Building full-stack applications and learning modern development workflows.
+🤝 Collaboration — Interested in team-based problem solving, technical events, and open-source contributions.
 ### 🎯 Areas I'm Interested In
 
 Artificial Intelligence · Machine Learning · Healthcare Technology · Full-Stack Development · Cloud Computing · Social Impact
